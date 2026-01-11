@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+prometheus-fastapi-instrumentator
+loguru
